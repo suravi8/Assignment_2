@@ -1,0 +1,229 @@
+
+@media(max-width:393px){
+  /* navbar */
+      .bars {
+          font-size: 25px; 
+          padding: 8px 10px;
+          display: block;
+      }
+      .bars ion-icon{
+          color: #fff;
+      }
+      ul{
+          position: absolute;
+          flex-direction: column;
+          top: 100%;
+          left: -300%;          
+          background-color: #fff;
+          width: 100%;
+          padding: 5px 8px;
+          gap: 60px;
+          transition: all 0.5s;
+          border-radius: 5px;
+          z-index: 999;
+          align-items: center;
+      }
+      .ShowMenu{
+          left: 0;
+      }
+      ul li a{
+          color: #ffffff;
+      }
+
+
+
+
+       /* navbar */
+  /* allcss */
+  .padding_all{
+    padding: 0 30px;
+}
+
+.banner{
+  display: block;
+}  
+.banner-title {
+font-size: 2rem;
+/* font-weight: 1000; */
+}
+.banner-description {
+  padding: 20px 0px 20px 0;
+}
+.btn {
+  width: 150px;
+  padding: 10px 20px;
+  font-size: 10px;
+  font-style: normal;
+  font-weight:bold;
+  text-decoration: none;
+  border-radius: 30px;
+  column-gap: 10px;
+  margin: 5px;
+}
+.img_1 img{
+  width: 300px;
+}
+
+
+
+/* first part */
+
+.f_img {
+  display: block;
+}
+.f_text1>h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+.f_img1{
+  padding: 20px;
+}
+.f_img1>p {
+  margin: auto;
+}
+
+
+
+/* secend part */
+.sp_1 {
+  display: block;
+}
+.s_part1 {
+  font-size: 30px;
+  width: 200px;
+}
+.s_t1 {
+  width: 270px;
+}
+.btnp_1>.btn{
+  width: 250px; 
+}
+.s_img img {
+  height: 300px;
+  width: 300px;
+}
+.s_img{
+  padding-top: 40px;
+}
+
+
+/* third part */
+.f_text1 {
+
+  font-size: 30px;
+  font-weight: bold;
+
+}
+.th_t3 {
+  max-width: 671px;
+
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.3px;
+}
+
+/* fifth part */
+
+#forth_section_calculator{
+  padding: 0 10px;
+}
+.fip_1 {
+  display: block;
+  width: 100%;
+  padding: 0 10px;
+}
+.fip_2{
+  width: 100%;
+  padding: 10px;
+}
+.fip_2>.ta_1{
+  width: 100%;
+}
+.fip_3{
+  width: 100%;
+}
+.from1{
+  width: 100%;
+}
+.from1>form{
+  width: 100%;
+}
+.from1>form>.from1div{
+  width: 100%;
+}
+.from1>form>.from1div>.int_1>.i_1>input{
+  width: 100%;
+}
+.from1>form>.from1div>.int_1>.i_1>select{
+  width: 100%;
+}
+.from1>form>.from1div>.f_2>select{
+  width: 100%;
+}
+
+
+.int_1{
+  width: 100%;
+}
+.i_1{
+  width: 50%;
+} 
+
+
+.six_1 {
+  width: 100%;
+}
+
+.six_img1 {
+  display: block;
+  padding:0 20px;
+  height: auto;
+  margin: 0;
+}
+#six{
+   display: block;
+   width: 100vw;
+   margin: auto; 
+}
+.fip_3>.text-gray1{
+  width: 80vw;
+}
+
+.six_p1>p{
+  text-align: center;
+  padding-left: 20px;
+  margin:0;
+  width: 80vw;
+}
+.six_p1 {
+  padding: 0;
+}
+
+
+
+
+.foo_p {
+  display: block;
+  width: 100%;
+}
+.foo_p>.foo_p1>.text-gray1{
+  width: 100%;
+}
+footer {
+
+  padding: 0;
+}
+.foo{
+  width: 100%;
+}
+.foo_b{
+  width: 100vw;
+}
+.foo_p1 {
+  width: 100%;
+}
+}
+  
+  
+ 
