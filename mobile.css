@@ -174,13 +174,27 @@ font-size: 2rem;
 .six_1 {
   width: 100%;
 }
-
-.six_img1 {
+#fifth_section_row{
   display: block;
   padding:0 20px;
   height: auto;
   margin: 0;
 }
+#fifth_section_row>.image{
+  width: 94.33%;
+}
+#fifth_section_row_1 {
+    display: block;
+}
+#fifth_section_row_1>.image {
+    width: 94.33%;
+  }
+/*.six_img1 {
+  display: block;
+  padding:0 20px;
+  height: auto;
+  margin: 0;
+}*/
 #six{
    display: block;
    width: 100vw;
